@@ -48,12 +48,14 @@ Image source
 
 ![image](https://user-images.githubusercontent.com/103432222/227919929-16d161ff-d2f8-468c-9e27-0d4801d52c45.png)
 
-# 3. LAST BUT NOT LEAST - VERY IMPORTANT STEP
+# 3. LAST BUT NOT LEAST - IT IS VERY IMPORTANT STEP !
 
-Look that new merged tabele is added to consolidation of data:
+Please taka a look that new merged tabele is added to consolidation of data:
+
 ![image](https://user-images.githubusercontent.com/103432222/227920581-bd563c7d-ee67-4916-9500-5c7b0739de60.png)
 
 Unclick checkbox with **merged tabele** 
+
 ![image](https://user-images.githubusercontent.com/103432222/227921975-407a2745-cb89-4676-b946-fa69b43f2490.png)
 
 
