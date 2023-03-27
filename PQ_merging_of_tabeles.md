@@ -54,7 +54,7 @@ Please taka a look that new merged tabele is added to consolidation of data:
 
 ![image](https://user-images.githubusercontent.com/103432222/227920581-bd563c7d-ee67-4916-9500-5c7b0739de60.png)
 
-Unclick checkbox with **merged tabele** 
+Unclick checkbox with **merged** record. 
 
 ![image](https://user-images.githubusercontent.com/103432222/227921975-407a2745-cb89-4676-b946-fa69b43f2490.png)
 
