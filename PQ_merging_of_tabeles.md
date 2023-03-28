@@ -4,12 +4,14 @@
 https://www.youtube.com/watch?v=U_jZYKDtTLg&ab_channel=PMSOCHOPiotrMajcher
 ```
 
-# 0. DATA EXTRACTATION
-
 ![image](https://user-images.githubusercontent.com/103432222/227918940-94aea8b0-c792-4219-952c-467cf3519246.png)
 
 Image source
 `https://papersoft-dms.com/wp-content/uploads/2016/05/data-extraction-as-a-service.png`
+
+# 0. DATA EXTRACTATION
+
+Let's start ! 💪💪💪
 
 
 ![image](https://user-images.githubusercontent.com/103432222/227909949-825ba8b6-06b3-4e11-8ae3-f146028bcd32.png)
@@ -24,7 +26,7 @@ Image source
 
 ![image](https://user-images.githubusercontent.com/103432222/227911265-73ed8628-2111-4d6c-a3b3-ac760fc76358.png)
 
-![image](https://user-images.githubusercontent.com/103432222/227911641-d8b0d7f2-5cd4-4442-b16c-f1c2a046fdd2.png)
+![image](https://user-images.githubusercontent.com/103432222/228205124-06916853-a52f-49b6-a9fe-36825598cad2.png)
 
 # 1. FILTERING RANGE OF MERGING TABELES AND CLEARING HEADINGS NAMES
 
